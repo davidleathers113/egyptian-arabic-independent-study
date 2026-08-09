@@ -1,0 +1,1 @@
+token_id,session_id,speaker_id,item,arabic_orthography,ipa_phone,start_time_s,end_time_s,duration_ms,f0_hz,f1_hz,f2_hz,f3_hz,measurement_point,preceding_context,following_context,stress,condition,analyst,analysis_date,notes
