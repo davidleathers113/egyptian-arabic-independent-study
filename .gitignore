@@ -1,0 +1,37 @@
+# Private language-consultant data
+private/
+PRIVATE/
+consent/
+master-audio/
+working-audio/
+raw-audio/
+raw-video/
+private-metadata/
+private-transcripts/
+
+# Common audio/video formats are excluded by default.
+# Explicitly approved public excerpts can be force-added after consent review.
+*.wav
+*.aiff
+*.aif
+*.flac
+*.mp3
+*.m4a
+*.aac
+*.mp4
+*.mov
+
+# Praat/ELAN working artifacts can contain recoverable speech or private annotations
+*.Collection
+*.eaf
+
+# Local/environment files
+.DS_Store
+.env
+.env.*
+*.tmp
+*.bak
+
+# Copyrighted course materials should never be copied into the repo
+textbook-scans/
+course-pdfs/
