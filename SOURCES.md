@@ -16,6 +16,11 @@ As of 2026-08-09, DIU publicly lists the four prerequisite courses used as the m
 
 DIU's MA Applied Linguistics page currently says students must earn B- or above in these prerequisites, while allowing course-by-course petitions to waive them with equivalent coursework. Re-check DIU before treating requirements, delivery modes, or schedules as current.
 
+Relevant later-course boundaries:
+- **AL4406 Field Methods and Linguistic Analysis** uses these prerequisites to support elicitation, phonological analysis, mini-lexicon development, and a grammar sketch with a speaker of a non-western language.
+- **AL5313 Advanced Grammatical Analysis** explicitly adds syntactic typology, formal syntax, and a simplified Lexical Functional Grammar framework.
+- **AL5312 Discourse Analysis** adds discourse structure, information structure, participant reference, salience, and paragraph-level analysis.
+
 ## Phonetics / IPA
 
 - International Phonetic Association: https://www.internationalphoneticassociation.org/
@@ -26,14 +31,41 @@ DIU's MA Applied Linguistics page currently says students must earn B- or above 
 
 - SIL resources: https://www.sil.org/resources
 - McKinney & McKinney, *An Introduction to Field Phonetics*.
-- Donald A. Burquest, *Phonological Analysis: A Functional Approach*, 3rd ed. SIL International.
+- Donald A. Burquest, *Phonological Analysis*, 3rd ed. SIL International.
 - J. Albert Bickford, *Morphology and Syntax: Tools for Analyzing the World's Languages*. SIL International.
 - SIL Glossary of Linguistic Terms: https://glossary.sil.org/
 - SIL Global Diaspora Services, English with Newcomers / GPA-influenced resources: https://globaldiaspora.sil.org/english-with-newcomers
+- SIL FieldWorks Language Explorer: https://software.sil.org/fieldworks/
 
-## Open linguistics reference
+## Open linguistics / typology references
 
 - Catherine Anderson et al., *Essentials of Linguistics*, 2nd ed., Open Textbook Library: https://open.umn.edu/opentextbooks/textbooks/599
+- Leipzig Glossing Rules, Max Planck Institute for Evolutionary Anthropology: https://www.eva.mpg.de/lingua/resources/glossing-rules.php
+- WALS Online: https://wals.info/
+- Grambank: https://grambank.clld.org/
+
+## AL4410 major secondary resources
+
+- Thomas E. Payne, *Exploring Language Structure: A Student's Guide*. Cambridge University Press.
+- Thomas E. Payne, official additional exercises: https://pages.uoregon.edu/tpayne/problem_sets.htm
+- Rochelle Lieber, *Introducing Morphology*, 3rd ed. Cambridge University Press (selective morphology deepening).
+- MIT OpenCourseWare 24.900, *Introduction to Linguistics* (2022): https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/
+- MIT OpenCourseWare 24.902, *Language and its Structure II: Syntax* (2015): https://ocw.mit.edu/courses/24-902-language-and-its-structure-ii-syntax-fall-2015/
+
+## Egyptian Arabic grammatical references
+
+- Ernest T. Abdel-Massih, Zaki N. Abdel-Malek, El-Said M. Badawi, with Ernest N. McCarus, *A Reference Grammar of Egyptian Arabic*. Georgetown University Press, 2009 reprint.
+- Joseph E. Aoun, Elabbas Benmamoun, Lina Choueiri, *The Syntax of Arabic*. Cambridge University Press. Use selectively as an advanced/post-analysis comparator.
+- Elabbas Benmamoun, *The Feature Structure of Functional Categories: A Comparative Study of Arabic Dialects*. Oxford University Press; selected Egyptian-Arabic tense material.
+- Usama Soltan, work on Cairene Egyptian Arabic sentential negation; use post-analysis.
+
+## Arabic computational morphology / AI research
+
+- CAMeL Tools documentation: https://camel-tools.readthedocs.io/
+- CAMeL Tools provides an Egyptian Arabic morphology database (`calima-egy-r13`) and related analysis/tokenization support.
+- ACL Anthology: https://aclanthology.org/ — primary publication source for current NLP/field-linguistics research.
+
+Relevant AI/glossing research for later AL4410 interpretation includes 2025–2026 ACL publications on LLM-based interlinear glossing, retrieval-augmented glossing, and hybrid neural/LLM field-linguistics workflows. Experimental designs must be frozen before reading results that could bias the benchmark.
 
 ## Language proficiency / acquisition
 
@@ -47,6 +79,8 @@ Use ACTFL descriptors/concepts only in ways permitted by ACTFL. Do not represent
 - Praat, University of Amsterdam: https://www.fon.hum.uva.nl/praat/
 - Audacity: https://www.audacityteam.org/
 - ELAN, The Language Archive/Max Planck: https://archive.mpi.nl/tla/elan
+- SIL FieldWorks Language Explorer: https://software.sil.org/fieldworks/
+- CAMeL Tools: https://camel-tools.readthedocs.io/
 
 ## Credit-hour workload
 
